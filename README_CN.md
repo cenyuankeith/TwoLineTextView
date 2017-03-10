@@ -1,6 +1,8 @@
-#TwoLineTextView
+#TwoLineTextView[English](https://github.com/cenyuankeith/TwoLineTextView/blob/master/README.md)
 TwoLineTextView是一个显示两行文本继承自TextView的控件
+
 ![p1](https://github.com/cenyuankeith/TwoLineTextView/blob/master/image.png)
+
 #怎么用？
 ```XML
 <com.cd.keith.twolinetextview.TwoLineTextView
