@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TwoLineTextView">
+        <attr name="secondLineText" format="string" />
+        <attr name="secondLineTextSize" format="dimension" />
+        <attr name="secondLineTextColor" format="color" />
+        <attr name="firstLineText" format="string" />
+        <attr name="firstLineTextSize" format="dimension" />
+        <attr name="firstLineTextColor" format="color" />
+        <attr name="lineSpaceHeight" format="dimension" />
+    </declare-styleable>
+</resources>
