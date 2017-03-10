@@ -1,6 +1,8 @@
 #TwoLineTextView [中文](https://github.com/cenyuankeith/TwoLineTextView/blob/master/README_CN.md)
 TwoLineTextView is an display two line text View
 
+![p1](https://github.com/cenyuankeith/TwoLineTextView/blob/master/image.png)
+
 #How to use ？
 ```XML
 <com.cd.keith.twolinetextview.TwoLineTextView

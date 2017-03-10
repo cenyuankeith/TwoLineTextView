@@ -22,7 +22,7 @@
         app:firstLineTextSize="30sp"
         app:firstLineTextColor="#999999"
         app:secondLineTextColor="#89d284"
-        app:secondLineTextSize="16sp"
+        app:secondLineTextSize="26sp"
         app:secondLineText="100单" />
 
     <com.cd.keith.twolinetextview.TwoLineTextView
@@ -48,10 +48,10 @@
         android:layout_marginTop="20dp"
         android:layout_below="@+id/tv_second"
         app:firstLineText="合作商家订单"
-        app:firstLineTextSize="14sp"
+        app:firstLineTextSize="24sp"
         app:firstLineTextColor="#999999"
         app:secondLineTextColor="#89d284"
-        app:secondLineTextSize="14sp"
+        app:secondLineTextSize="18sp"
         app:secondLineText="100单" />
 
 
